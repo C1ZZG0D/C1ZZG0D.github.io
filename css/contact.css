@@ -1,0 +1,33 @@
+#textarea {
+
+    width: 570%;
+
+     
+
+
+
+}
+
+#email {
+
+    left: 130%;
+
+    position: relative;
+
+    align-content: center;
+
+    width:300%;
+
+    height:75%;
+
+}
+
+#contact {
+
+    background-color: blue;
+     opacity: 0;
+    color: white;
+
+    border-radius: 7.5px
+
+}

@@ -1,0 +1,27 @@
+.navbar-brand {
+
+  font-family: Titillium Web;
+
+}
+
+.nav-link {
+
+  font-family: Titillium Web;
+
+}
+
+.nav-item-dropdown {
+
+  font-family: Titillium Web;
+
+}
+
+.dropdown-item {
+
+  font-family: Titillium Web;
+
+}
+
+.navbar navbar-expand-lg navbar-dark bg-danger {
+  opacity: 0.5;
+}
